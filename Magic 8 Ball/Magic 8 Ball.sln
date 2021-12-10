@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic 8 Ball", "Magic 8 Ball\Magic 8 Ball.csproj", "{69BDDCD2-4B8C-42B0-B989-EE739A5849BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libray", "ClassLibrary1\Libray.csproj", "{CEDEA347-6696-4144-8748-0F4BA0C15AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BDDCD2-4B8C-42B0-B989-EE739A5849BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BDDCD2-4B8C-42B0-B989-EE739A5849BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BDDCD2-4B8C-42B0-B989-EE739A5849BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BDDCD2-4B8C-42B0-B989-EE739A5849BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDEA347-6696-4144-8748-0F4BA0C15AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDEA347-6696-4144-8748-0F4BA0C15AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDEA347-6696-4144-8748-0F4BA0C15AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDEA347-6696-4144-8748-0F4BA0C15AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB326414-D4FD-403A-B04D-D75113FA8513}
+	EndGlobalSection
+EndGlobal
